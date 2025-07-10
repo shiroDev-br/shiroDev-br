@@ -1,5 +1,6 @@
-## 👋 Bem-vindo ao meu perfil
+<h1 align="center">👋 Bem-vindo ao meu perfil</h1>
 
+## Sobre mim
 Olá! Eu sou o **Arthur**, desenvolvedor **Back-End** com foco em construir **APIs escaláveis, limpas e performáticas** usando **FastAPI** em Python. Também tenho experiência no desenvolvimento de aplicativos **Flutter**, unindo back-end robusto com interfaces modernas.
 
 Além disso, atuo em toda a parte de **infraestrutura**, com **Docker**, **Redis**, **Celery** para tarefas assíncronas, bancos de dados (**PostgreSQL**, **MySQL**, **SQLite**) e deploy em ambientes de **teste** e **produção**, sempre seguindo **boas práticas de Git**, como o **GitFlow**.
@@ -8,7 +9,11 @@ Além disso, atuo em toda a parte de **infraestrutura**, com **Docker**, **Redis
 
 ## 🚀 Áreas de Atuação
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40"/>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="12" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="12" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="12" height="40"/>
+</div>
 
 ---
 
