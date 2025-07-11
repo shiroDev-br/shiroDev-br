@@ -5,6 +5,8 @@ Olá! Eu sou o **Arthur**, desenvolvedor **Back-End** com foco em construir **AP
 
 Além disso, atuo em toda a parte de **infraestrutura**, com **Docker**, **Redis**, **Celery** para tarefas assíncronas, bancos de dados (**PostgreSQL**, **MySQL**, **SQLite**) e deploy em ambientes de **teste** e **produção**, sempre seguindo **boas práticas de Git**, como o **GitFlow**.
 
+Se você quiser ver os meus projetos principais e prestes ao deploy, em estágio de venda real, entre em contato pelo meu discord: **shirors**
+
 ---
 
 ## 🛠️ Ferramentas
